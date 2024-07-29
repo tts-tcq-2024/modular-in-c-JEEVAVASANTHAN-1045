@@ -1,4 +1,4 @@
-#include "Types_of_colour_code.h"
+#include "types_of_colour_code.h"
 
 const char* MajorColorNames[] = {"White", "Red", "Black", "Yellow", "Violet"}; 
 const char* MinorColorNames[] = {"Blue", "Orange", "Green", "Brown", "Slate"};
