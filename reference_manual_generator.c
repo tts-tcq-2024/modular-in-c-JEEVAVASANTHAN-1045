@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include<string.h>
 #include "String_converter_from_colourpair.h"
-#include "color_from_pair_number_finder.h"
+#include "color_from_pair_number_identifier.h"
 
 #define MAX_BUFFER_SIZE 1024
 #define MAX_LINE_SIZE 20
