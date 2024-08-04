@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "color_from_pair_number_identifier.h"
+#include "pairnumber_finder_fromcolour.h"
 #include "pairtonumber_verification.h"
 
 void testPairToNumber(MajorColor major, MinorColor minor, int expectedPairNumber) {
