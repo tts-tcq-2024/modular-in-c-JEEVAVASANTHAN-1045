@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "colorpair_to_string_converter.h"
+#include "String_converter_from_colourpair.h"
 #include "color_from_pair_number_identifier.h"
 #include "pair_from_number.h"
 
